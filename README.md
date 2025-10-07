@@ -1,0 +1,2 @@
+# verilog_for_cpu
+FPGAでCPUを実装するための基礎固め
